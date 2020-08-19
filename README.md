@@ -1,3 +1,3 @@
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
+[![Generic badge](https://img.shields.io/badge/Power-JavaScript-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 
 ### Hi there 👋
