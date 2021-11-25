@@ -10,4 +10,10 @@ yersoncp@github:~$ cat welcome.ts
 //  ___________________________
 // | Welcome to github profile |
 //  --------------------------- 
+
+const me<Profile> = {
+    name: 'Yerson',
+    website: 'https://zurvin.com',
+};
+
 ```
