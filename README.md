@@ -5,7 +5,7 @@
 
 <samp>🛠️ JavaScript | TypeScript | Angular 10+ 🤘 | NodeJS 🚀 | [React](https://reactjs.org/) | [NextJS](https://nextjs.org/) 🔥 | VueJS | NuxtJS | [Gridsome](https://gridsome.org/) | [NestJS](https://nestjs.com/) | Unit Testing</samp>
 
-```console
+```javascript
 yersoncp@github:~$ cat welcome.ts
 //  ___________________________
 // | Welcome to github profile |
