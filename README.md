@@ -13,7 +13,7 @@ yersoncp@github:~$ cat welcome.ts
 
 const me<Profile> = {
     name: 'Yerson',
-    website: 'https://zurvin.com',
+    location: 'Perú',
 };
 
 ```
