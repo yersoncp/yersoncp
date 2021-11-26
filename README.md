@@ -7,10 +7,6 @@
 
 ```javascript
 yersoncp@github:~$ cat welcome.ts
-//  ___________________________
-// | Welcome to github profile |
-//  --------------------------- 
-
 const me<Profile> = {
     name: 'Yerson',
     location: 'Perú',
