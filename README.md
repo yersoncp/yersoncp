@@ -7,9 +7,10 @@
 
 ```javascript
 yersoncp@github:~$ cat welcome.ts
-const me<Profile> = {
+export const me<Profile> = {
     name: 'Yerson',
-    location: 'Perú',
-};
+    country: 'Perú',
+    role: 'FrontEnd Engineer'
+}
 
 ```
