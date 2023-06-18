@@ -2,7 +2,7 @@
 
 # Hello 👋
 
-<samp>🛠️ JavaScript | TypeScript | Angular 10+ 🤘 | NodeJS 🚀 | [React](https://reactjs.org/) | [NextJS](https://nextjs.org/) 🔥 | VueJS | NuxtJS | [Gridsome](https://gridsome.org/) | [NestJS](https://nestjs.com/) | Unit Testing</samp>
+<samp>🛠️ JavaScript | TypeScript | Angular 10+ 🤘 | NodeJS 🚀 | [React](https://reactjs.org/) | [NextJS](https://nextjs.org/) 🔥 | VueJS | NuxtJS | [NestJS](https://nestjs.com/)</samp>
 
 ```javascript
 yersoncp@github:~$ cat welcome.ts
