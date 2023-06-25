@@ -4,7 +4,7 @@
 # I'm Yerson, I'm Frontend Engineer
 
 ```javascript
-yersoncp@github:~$ cat profile.ts
+yersoncp git:(main) ~$ cat profile.ts
 export const me: Profile = {
     name: 'Yerson',
     location: 'Lima, Perú',
