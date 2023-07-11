@@ -4,16 +4,18 @@
 # I'm Yerson, I'm Frontend Engineer
 
 ```javascript
-yersoncp git:(main) ~$ cat profile.ts
+~ yerson-macbook git:(main) ~$ cd me
+~ yerson-macbook git:(main) ~$ cat my-profile.ts
 export const me: Profile = {
     name: 'Yerson',
-    location: 'Lima, Perú',
-    role: 'FrontEnd Engineer',
+    country: 'Perú',
+    role: 'Frontend Engineer',
+    website: 'https://www.zurvin.com',
     powers: [
         'React 🤘',
         'NextJS 🤘',
-        'Angular 🔥',
-        'NestJS 🔥',
+        'NestJS 🤘',
+        'Angular 🤘',
     ]
 }
 
