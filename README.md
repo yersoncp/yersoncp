@@ -4,18 +4,15 @@
 # I'm Yerson, I'm Frontend Engineer
 
 ```javascript
-~ yerson-macbook git:(main) ~$ cd me
-~ yerson-macbook git:(main) ~$ cat my-profile.ts
+➜ profile-repo git:(feat/me) ✗ 🎁 v0.1.0 cd me
+➜ profile-repo git:(feat/me) ✗ 🎁 v0.1.0 cat my-profile.ts
 export const me: Profile = {
     name: 'Yerson',
-    country: 'Perú',
-    role: 'Frontend Engineer',
-    website: 'https://www.zurvin.com',
+    country: '🇵🇪 Perú',
+    role: 'Sr. Frontend Engineer',
     powers: [
-        'React 🤘',
-        'NextJS 🤘',
-        'NestJS 🤘',
-        'Angular 🤘',
+        'React 🤘🤘🤘🤘🤘',
+        'NextJS 🤘🤘🤘🤘🤘',
     ]
 }
 
